@@ -1,0 +1,25 @@
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Datos\obj\Debug\Datos.pdb
+C:\TF - copia\TrabajoFinal\Datos\bin\Debug\Datos.dll
+C:\TF - copia\TrabajoFinal\Datos\bin\Debug\Datos.pdb
+C:\TF - copia\TrabajoFinal\Datos\bin\Debug\Entidades.dll
+C:\TF - copia\TrabajoFinal\Datos\bin\Debug\Entidades.pdb
+C:\TF - copia\TrabajoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\TF - copia\TrabajoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\TF - copia\TrabajoFinal\Datos\obj\Debug\Datos.dll
+C:\TF - copia\TrabajoFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Datos\obj\Debug\Datos.pdb

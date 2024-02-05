@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D266959-F55C-41B8-B70C-011232C1E72E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActualizarRepresentante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarRepresentante.designer.cs">
+      <DependentUpon>ActualizarRepresentante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHistorialClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHistorialClientes.designer.cs">
+      <DependentUpon>FormHistorialClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormModificarNinio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModificarNinio.designer.cs">
+      <DependentUpon>FormModificarNinio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistrarNinio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistrarNinio.designer.cs">
+      <DependentUpon>FormRegistrarNinio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistrarRepresentante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistrarRepresentante.designer.cs">
+      <DependentUpon>FormRegistrarRepresentante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCumpleanios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCumpleanios.Designer.cs">
+      <DependentUpon>FrmCumpleanios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDemanda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDemanda.Designer.cs">
+      <DependentUpon>FrmDemanda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModificarCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModificarCita.Designer.cs">
+      <DependentUpon>FrmModificarCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModificarHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModificarHorario.Designer.cs">
+      <DependentUpon>FrmModificarHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModificarServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModificarServicio.Designer.cs">
+      <DependentUpon>FrmModificarServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistrarCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistrarCita.Designer.cs">
+      <DependentUpon>FrmRegistrarCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistrarHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistrarHorario.Designer.cs">
+      <DependentUpon>FrmRegistrarHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistrarServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistrarServicio.Designer.cs">
+      <DependentUpon>FrmRegistrarServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmxdia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmxdia.designer.cs">
+      <DependentUpon>Frmxdia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HorariosMasFrecuentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HorariosMasFrecuentes.designer.cs">
+      <DependentUpon>HorariosMasFrecuentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ActualizarRepresentante.resx">
+      <DependentUpon>ActualizarRepresentante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHistorialClientes.resx">
+      <DependentUpon>FormHistorialClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModificarNinio.resx">
+      <DependentUpon>FormModificarNinio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegistrarRepresentante.resx">
+      <DependentUpon>FormRegistrarRepresentante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCumpleanios.resx">
+      <DependentUpon>FrmCumpleanios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDemanda.resx">
+      <DependentUpon>FrmDemanda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModificarCita.resx">
+      <DependentUpon>FrmModificarCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModificarHorario.resx">
+      <DependentUpon>FrmModificarHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModificarServicio.resx">
+      <DependentUpon>FrmModificarServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistrarCita.resx">
+      <DependentUpon>FrmRegistrarCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistrarHorario.resx">
+      <DependentUpon>FrmRegistrarHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistrarServicio.resx">
+      <DependentUpon>FrmRegistrarServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmxdia.resx">
+      <DependentUpon>Frmxdia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HorariosMasFrecuentes.resx">
+      <DependentUpon>HorariosMasFrecuentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{d247eb1f-8d8a-458c-9add-d655db64d38e}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{cebf1807-2e8b-4ddd-9eb5-0a10d37f2992}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgMenu.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgServicio.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgCita.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgRegistrarRepresentante.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgRegistarNinño.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgModificarHorario.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgRegistrarHorario.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgModificarRepre.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgCumpleaños.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgCumpleaños1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgDemanda.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgModificarServicio.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgModificarHorario1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgHorariosFrecunte.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgHorariosFrecunte1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgCancelarCita.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgHistorialRepre.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgModificarNiño.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgConcultarCitas.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

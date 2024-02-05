@@ -1,0 +1,32 @@
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\TF - copia\TrabajoFinal\Negocio\bin\Debug\Negocio.dll
+C:\TF - copia\TrabajoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\TF - copia\TrabajoFinal\Negocio\bin\Debug\Datos.dll
+C:\TF - copia\TrabajoFinal\Negocio\bin\Debug\Entidades.dll
+C:\TF - copia\TrabajoFinal\Negocio\bin\Debug\Datos.pdb
+C:\TF - copia\TrabajoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\TF - copia\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\TF - copia\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\TF - copia\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
+C:\TF - copia\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\bin\Debug\Entidades.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\bin\Debug\Entidades.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Negocio\obj\Debug\Negocio.pdb

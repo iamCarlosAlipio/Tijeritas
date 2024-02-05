@@ -1,0 +1,122 @@
+C:\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Entidades.dll
+C:\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Datos.dll
+C:\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Entidades.pdb
+C:\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarServicio.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarServicio.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarCita.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarHorario.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarHorario.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmDemanda.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmCumpleanios.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.HorariosMasFrecuentes.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarCita.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormRegistrarRepresentante.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.ActualizarRepresentante.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormHistorialClientes.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Frmxdia.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormModificarNinio.resources
+C:\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Datos.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.ActualizarRepresentante.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormHistorialClientes.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormModificarNinio.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormRegistrarRepresentante.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmCumpleanios.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmDemanda.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarCita.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarHorario.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarServicio.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarCita.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarHorario.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarServicio.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Frmxdia.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.HorariosMasFrecuentes.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF - copia\TrabajoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Datos.dll
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.ActualizarRepresentante.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormHistorialClientes.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormModificarNinio.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormRegistrarRepresentante.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmCumpleanios.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmDemanda.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarCita.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarHorario.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarServicio.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarCita.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarHorario.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarServicio.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Frmxdia.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.HorariosMasFrecuentes.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Margarita\Documents\ciclo 3\fundamentos de sistemas de información\TF\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Entidades.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Datos.dll
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.ActualizarRepresentante.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormHistorialClientes.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormModificarNinio.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FormRegistrarRepresentante.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmCumpleanios.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmDemanda.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarCita.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarHorario.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmModificarServicio.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarCita.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarHorario.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.FrmRegistrarServicio.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Frmxdia.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.HorariosMasFrecuentes.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\alipi\Downloads\TF_20201c222\TF_20201c222\TrabajoFinal\Presentacion\obj\Debug\Presentacion.pdb
